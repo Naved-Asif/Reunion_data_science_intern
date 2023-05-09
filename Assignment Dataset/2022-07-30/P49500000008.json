@@ -1,0 +1,477 @@
+{
+    "developer_information": {
+        "name": "DARSHAK SHAH AND DHARMENDRA TANDEL",
+        "organization_type": "Others",
+        "description_for_other_type_organization": "ASSOCIATION OF PERSON",
+        "do_you_have_any_past_experience": "No",
+        "address_details": {
+            "block_number": "SHOP NO.3",
+            "building_name": "SOMNATH COMMERCIAL CENTRE",
+            "street_name": "M G ROAD",
+            "locality": "DABHEL",
+            "land_mark": "NEAR SOMNATH CIRCLE",
+            "state_ut": "DAMAN & DIU",
+            "district": "Daman",
+            "taluka": "Daman",
+            "village": "",
+            "pin_code": "396210"
+        },
+        "organization_contact_details": {
+            "office_number": "",
+            "website_url": ""
+        }
+    },
+    "past_experience_details": [],
+    "project": {
+        "project": {
+            "project_name_mention_as_per_sanctioned_plan": "THE ADDRESS-PHASE 2",
+            "project_status": "New Project",
+            "proposed_date_of_completion": "30/12/2022",
+            "litigations_related_to_the_project": "No",
+            "project_type": "Mixed Development(Residential  and Commercial)",
+            "are_there_any_promoter_land_owner_investor_as_defined_by_maha_rera_order_in_the_project": "No",
+            "plot_bearing_no_cts_no_survey_number_final_plot_no": "S N 311, 342/1-A, 354/1",
+            "boundaries_east": "BUILDING TYPE M",
+            "boundaries_west": "BUILDING TYPE H",
+            "boundaries_north": "S NO 342 AND 310",
+            "boundaries_south": "S NO 343",
+            "state_ut": "DAMAN & DIU",
+            "division": "DAMAN & DIU",
+            "district": "Daman",
+            "taluka": "Daman",
+            "village": "",
+            "street": "COST GOURD ROAD",
+            "locality": "KATHIRIA AND DUNETHA",
+            "pin_code": "396210",
+            "total_plot_project_area_sqmts": "4465",
+            "total_number_of_proposed_building_wings_in_the_layout_plot": "3",
+            "is_project_plan_sanctioned_by_mcgm": "",
+            "number_of_sanctioned_building_out_of_above_proposed_count_applied_for_this_registration": "3",
+            "proposed_but_not_sanctioned_buildings_count": "0",
+            "total_recreational_open_space_as_per_sanctioned_plan": "0"
+        },
+        "fsi_details": {
+            "built_up_area_as_per_proposed_fsi_in_sqmts_proposed_but_not_sanctioned_as_soon_as_approved_should_be_immediately_updated_in_approved_fsi": "436.10",
+            "permissible_total_fsi_of_plot_permissible_built_up_area": "9005.85",
+            "out_of_the_above_sanctioned_fsi_sanctioned_built_up_area": "9441.95"
+        },
+        "bank_details": {
+            "bank_name": "AXIS BANK",
+            "ifsc_code": "UTIB0002570"
+        }
+    },
+    "amenities": {
+        "parking_details": [
+            {
+                "name": "Number of Garages ( In Numbers)",
+                "proposed": "10",
+                "booked": "0",
+                "work_done_in_percentage": "0"
+            },
+            {
+                "name": "Covered Parking ( In Numbers)",
+                "proposed": "0",
+                "booked": "0",
+                "work_done_in_percentage": "0"
+            }
+        ],
+        "development_work": [
+            {
+                "common_areas_and_facilities_amenities": "Internal Roads & Footpaths         :",
+                "available": "YES",
+                "percent": "50",
+                "details": "STARTED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Internal Roads & Footpaths :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Water Conservation, Rain water Harvesting :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Energy management :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Fire Protection And Fire Safety \r\nRequirements :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Electrical Meter Room, Sub-Station, Receiving Station :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Aggregate area of recreational Open Space :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Open Parking :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Water Supply :",
+                "available": "YES",
+                "percent": "0",
+                "details": "natural source"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Sewerage (Chamber, Lines, Septic Tank , STP) :",
+                "available": "YES",
+                "percent": "2",
+                "details": "STARTED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Storm Water Drains :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Landscaping & Tree Planting :",
+                "available": "YES",
+                "percent": "30",
+                "details": "STARTED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Street Lighting :",
+                "available": "YES",
+                "percent": "0",
+                "details": "not start"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Community Buildings :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Treatment And Disposal Of Sewage And Sullage Water :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Solid Waste Management And Disposal :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            }
+        ]
+    },
+    "building_details": [
+        {
+            "sr_no": "1",
+            "project_name": "THE ADDRESS-PHASE 2",
+            "name_also_mention_identification_of_building_wing_other_as_per_approved_plan": "I TYPE BUILDING",
+            "proposed_date_of_completion": "31/12/2021",
+            "number_of_basement_s": "0",
+            "number_of_plinth": "1",
+            "number_of_podium_s": "0",
+            "number_of_sanctioned_floors": "8",
+            "number_of_stilts": "1",
+            "total_no_of_open_parking_as_per_sanctioned_plan_4_wheeler_2_wheeler": "20",
+            "number_of_closed_parking": "0",
+            "extras": [
+                [
+                    {
+                        "sr_no": "1",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "62.68",
+                        "number_of_apartment": "14",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "2",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "64.93",
+                        "number_of_apartment": "14",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "3",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "85.21",
+                        "number_of_apartment": "14",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "87.36",
+                        "number_of_apartment": "14",
+                        "number_of_booked_apartment": "0"
+                    }
+                ],
+                [
+                    {
+                        "sr_no": "1",
+                        "tasks_activity": "Excavation",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "2",
+                        "tasks_activity": "X number of Basement(s) and Plinth",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "3",
+                        "tasks_activity": "X number of Podiums",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "tasks_activity": "Stilt Floor",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "5",
+                        "tasks_activity": "X number of Slabs of Super\r\n                                                            Structure",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "6",
+                        "tasks_activity": "Internal walls, Internal Plaster,\r\n                                                            Floorings within Flats/Premises, Doors and Windows to each of the Flat/Premises",
+                        "percentage_of_work": "60"
+                    },
+                    {
+                        "sr_no": "7",
+                        "tasks_activity": "Sanitary Fittings within the\r\n                                                            Flat/Premises,Electrical Fittings within the Flat/Premises",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "8",
+                        "tasks_activity": "Staircases, Lifts Wells and Lobbies at each Floor level connecting Staircases and Lifts, Overhead and Underground Water Tanks.",
+                        "percentage_of_work": "60"
+                    },
+                    {
+                        "sr_no": "9",
+                        "tasks_activity": "The external plumbing and external plaster,\r\n                                                                elevation, completion of terraces with waterproofing of the Building/Wing",
+                        "percentage_of_work": "75"
+                    },
+                    {
+                        "sr_no": "10",
+                        "tasks_activity": "Installation of lifts, water pumps, Fire\r\n                                                            Fighting Fittings and Equipment as per CFO NOC, Electrical fittings to Common\r\n                                                            Areas, electro, mechanical equipment, Compliance to conditions of environment\r\n                                                            /CRZ NOC,\r\n                                                            Finishing to entrance lobby/s, plinth protection, paving of areas appurtenant to\r\n                                                            Building/Wing, Compound Wall and all other requirements as may be required to\r\n                                                            Obtain Occupation /Completion Certificate",
+                        "percentage_of_work": "35"
+                    },
+                    {
+                        "sr_no": "11",
+                        "tasks_activity": "Overall Percentage of Completion of the\r\n                                                            work done  For the entire Building /Wing",
+                        "percentage_of_work": "53"
+                    }
+                ]
+            ]
+        },
+        {
+            "sr_no": "2",
+            "project_name": "THE ADDRESS-PHASE 2",
+            "name_also_mention_identification_of_building_wing_other_as_per_approved_plan": "J TYPE BUILDING",
+            "proposed_date_of_completion": "31/12/2021",
+            "number_of_basement_s": "0",
+            "number_of_plinth": "1",
+            "number_of_podium_s": "0",
+            "number_of_sanctioned_floors": "8",
+            "number_of_stilts": "1",
+            "total_no_of_open_parking_as_per_sanctioned_plan_4_wheeler_2_wheeler": "10",
+            "number_of_closed_parking": "0",
+            "extras": [
+                [
+                    {
+                        "sr_no": "1",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "65.10",
+                        "number_of_apartment": "7",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "2",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "65.32",
+                        "number_of_apartment": "28",
+                        "number_of_booked_apartment": "0"
+                    }
+                ],
+                [
+                    {
+                        "sr_no": "1",
+                        "tasks_activity": "Excavation",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "2",
+                        "tasks_activity": "X number of Basement(s) and Plinth",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "3",
+                        "tasks_activity": "X number of Podiums",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "tasks_activity": "Stilt Floor",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "5",
+                        "tasks_activity": "X number of Slabs of Super\r\n                                                            Structure",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "6",
+                        "tasks_activity": "Internal walls, Internal Plaster,\r\n                                                            Floorings within Flats/Premises, Doors and Windows to each of the Flat/Premises",
+                        "percentage_of_work": "50"
+                    },
+                    {
+                        "sr_no": "7",
+                        "tasks_activity": "Sanitary Fittings within the\r\n                                                            Flat/Premises,Electrical Fittings within the Flat/Premises",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "8",
+                        "tasks_activity": "Staircases, Lifts Wells and Lobbies at each Floor level connecting Staircases and Lifts, Overhead and Underground Water Tanks.",
+                        "percentage_of_work": "55"
+                    },
+                    {
+                        "sr_no": "9",
+                        "tasks_activity": "The external plumbing and external plaster,\r\n                                                                elevation, completion of terraces with waterproofing of the Building/Wing",
+                        "percentage_of_work": "55"
+                    },
+                    {
+                        "sr_no": "10",
+                        "tasks_activity": "Installation of lifts, water pumps, Fire\r\n                                                            Fighting Fittings and Equipment as per CFO NOC, Electrical fittings to Common\r\n                                                            Areas, electro, mechanical equipment, Compliance to conditions of environment\r\n                                                            /CRZ NOC,\r\n                                                            Finishing to entrance lobby/s, plinth protection, paving of areas appurtenant to\r\n                                                            Building/Wing, Compound Wall and all other requirements as may be required to\r\n                                                            Obtain Occupation /Completion Certificate",
+                        "percentage_of_work": "35"
+                    },
+                    {
+                        "sr_no": "11",
+                        "tasks_activity": "Overall Percentage of Completion of the\r\n                                                            work done  For the entire Building /Wing",
+                        "percentage_of_work": "49.5"
+                    }
+                ]
+            ]
+        },
+        {
+            "sr_no": "3",
+            "project_name": "THE ADDRESS-PHASE 2",
+            "name_also_mention_identification_of_building_wing_other_as_per_approved_plan": "K TYPE BUILDING",
+            "proposed_date_of_completion": "31/12/2021",
+            "number_of_basement_s": "0",
+            "number_of_plinth": "1",
+            "number_of_podium_s": "0",
+            "number_of_sanctioned_floors": "8",
+            "number_of_stilts": "1",
+            "total_no_of_open_parking_as_per_sanctioned_plan_4_wheeler_2_wheeler": "10",
+            "number_of_closed_parking": "1",
+            "extras": [
+                [
+                    {
+                        "sr_no": "1",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "49.61",
+                        "number_of_apartment": "14",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "2",
+                        "apartment_type": "RESIDENTIAL",
+                        "carpet_area_in_sqmts": "52.59",
+                        "number_of_apartment": "28",
+                        "number_of_booked_apartment": "0"
+                    }
+                ],
+                [
+                    {
+                        "sr_no": "1",
+                        "tasks_activity": "Excavation",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "2",
+                        "tasks_activity": "X number of Basement(s) and Plinth",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "3",
+                        "tasks_activity": "X number of Podiums",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "tasks_activity": "Stilt Floor",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "5",
+                        "tasks_activity": "X number of Slabs of Super\r\n                                                            Structure",
+                        "percentage_of_work": "100"
+                    },
+                    {
+                        "sr_no": "6",
+                        "tasks_activity": "Internal walls, Internal Plaster,\r\n                                                            Floorings within Flats/Premises, Doors and Windows to each of the Flat/Premises",
+                        "percentage_of_work": "80"
+                    },
+                    {
+                        "sr_no": "7",
+                        "tasks_activity": "Sanitary Fittings within the\r\n                                                            Flat/Premises,Electrical Fittings within the Flat/Premises",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "8",
+                        "tasks_activity": "Staircases, Lifts Wells and Lobbies at each Floor level connecting Staircases and Lifts, Overhead and Underground Water Tanks.",
+                        "percentage_of_work": "50"
+                    },
+                    {
+                        "sr_no": "9",
+                        "tasks_activity": "The external plumbing and external plaster,\r\n                                                                elevation, completion of terraces with waterproofing of the Building/Wing",
+                        "percentage_of_work": "25"
+                    },
+                    {
+                        "sr_no": "10",
+                        "tasks_activity": "Installation of lifts, water pumps, Fire\r\n                                                            Fighting Fittings and Equipment as per CFO NOC, Electrical fittings to Common\r\n                                                            Areas, electro, mechanical equipment, Compliance to conditions of environment\r\n                                                            /CRZ NOC,\r\n                                                            Finishing to entrance lobby/s, plinth protection, paving of areas appurtenant to\r\n                                                            Building/Wing, Compound Wall and all other requirements as may be required to\r\n                                                            Obtain Occupation /Completion Certificate",
+                        "percentage_of_work": "35"
+                    },
+                    {
+                        "sr_no": "11",
+                        "tasks_activity": "Overall Percentage of Completion of the\r\n                                                            work done  For the entire Building /Wing",
+                        "percentage_of_work": "76"
+                    }
+                ]
+            ]
+        }
+    ],
+    "project_professional_information": [
+        {
+            "professional_name": "MANISH DOSHI",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Architect"
+        },
+        {
+            "professional_name": "JALIL SHAIKH",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Engineer"
+        },
+        {
+            "professional_name": "MANISHA CONSTRUCTION",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Contractor"
+        }
+    ],
+    
+    
+    "ru__created_at": "2022-07-30 03:59:13.351230"
+}

@@ -1,0 +1,342 @@
+{
+    "developer_information": {
+        "name": "BALAJI DEVELOPERS",
+        "organization_type": "Partnership",
+        "description_for_other_type_organization": "NA",
+        "do_you_have_any_past_experience": "No",
+        "address_details": {
+            "block_number": "S NO 248/1",
+            "building_name": "BALAJI HOMES",
+            "street_name": "DUNETHA",
+            "locality": "NANI DAMAN",
+            "land_mark": "DAMAN",
+            "state_ut": "DAMAN & DIU",
+            "district": "Daman",
+            "taluka": "Daman",
+            "village": "",
+            "pin_code": "396210"
+        },
+        "organization_contact_details": {
+            "office_number": "02603981000",
+            "website_url": ""
+        }
+    },
+    "past_experience_details": [],
+    "project": {
+        "project": {
+            "project_name_mention_as_per_sanctioned_plan": "BALAJI HOMES",
+            "project_status": "New Project",
+            "proposed_date_of_completion": "22/10/2021",
+            "litigations_related_to_the_project": "No",
+            "project_type": "Mixed Development(Residential  and Commercial)",
+            "are_there_any_promoter_land_owner_investor_as_defined_by_maha_rera_order_in_the_project": "Yes",
+            "plot_bearing_no_cts_no_survey_number_final_plot_no": "S NO 248/1",
+            "boundaries_east": "20DEGREE26 00POINT644 N 72 DEGREE 51 15 POINT 28 E",
+            "boundaries_west": "20DEGREE 26 00POINT227 N 72DEGREE 51 15POINT 05 E",
+            "boundaries_north": "20DEGREE26 00POINT 09 N 72 DEGREE 51 15 POINT 75 E",
+            "boundaries_south": "20 DEGREE 26 00 POINT 408 N 72 DEGREE51 15POINT87E",
+            "state_ut": "DAMAN & DIU",
+            "division": "DAMAN & DIU",
+            "district": "Daman",
+            "taluka": "Daman",
+            "village": "",
+            "street": "DUNETHA",
+            "locality": "DAMAN",
+            "pin_code": "396210",
+            "total_plot_project_area_sqmts": "943",
+            "total_number_of_proposed_building_wings_in_the_layout_plot": "1",
+            "is_project_plan_sanctioned_by_mcgm": "",
+            "number_of_sanctioned_building_out_of_above_proposed_count_applied_for_this_registration": "1",
+            "proposed_but_not_sanctioned_buildings_count": "0",
+            "total_recreational_open_space_as_per_sanctioned_plan": "0"
+        },
+        "fsi_details": {
+            "built_up_area_as_per_proposed_fsi_in_sqmts_proposed_but_not_sanctioned_as_soon_as_approved_should_be_immediately_updated_in_approved_fsi": "0",
+            "permissible_total_fsi_of_plot_permissible_built_up_area": "914.27",
+            "out_of_the_above_sanctioned_fsi_sanctioned_built_up_area": "914.27"
+        },
+        "bank_details": {
+            "bank_name": "AXIS BANK",
+            "ifsc_code": "UTIB0000380"
+        }
+    },
+    "amenities": {
+        "parking_details": [
+            {
+                "name": "Number of Garages ( In Numbers)",
+                "proposed": "0",
+                "booked": "0",
+                "work_done_in_percentage": "0"
+            },
+            {
+                "name": "Covered Parking ( In Numbers)",
+                "proposed": "9",
+                "booked": "0",
+                "work_done_in_percentage": "0"
+            }
+        ],
+        "development_work": [
+            {
+                "common_areas_and_facilities_amenities": "Internal Roads & Footpaths      :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Water Conservation, Rain water Harvesting :",
+                "available": "YES",
+                "percent": "0",
+                "details": "YET TO BE PROVIDED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Energy management :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Fire Protection And Fire Safety \r\nRequirements :",
+                "available": "YES",
+                "percent": "0",
+                "details": "YET TO BE PROVIDED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Electrical Meter Room, Sub-Station, Receiving Station :",
+                "available": "YES",
+                "percent": "0",
+                "details": "YET TO BE PROVIDED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Aggregate area of recreational Open Space :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Open Parking :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Water Supply :",
+                "available": "YES",
+                "percent": "0",
+                "details": "BOREWELL AND PWD SUPPLY"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Sewerage (Chamber, Lines, Septic Tank , STP) :",
+                "available": "YES",
+                "percent": "0",
+                "details": "YET TO BE PROVIDED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Storm Water Drains :",
+                "available": "YES",
+                "percent": "0",
+                "details": "YET TO BE PROVIDED"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Landscaping & Tree Planting :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Street Lighting :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Community Buildings :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Treatment And Disposal Of Sewage And Sullage Water :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            },
+            {
+                "common_areas_and_facilities_amenities": "Solid Waste Management And Disposal :",
+                "available": "NO",
+                "percent": "0",
+                "details": "NA"
+            }
+        ]
+    },
+    "building_details": [
+        {
+            "sr_no": "1",
+            "project_name": "BALAJI HOMES",
+            "name_also_mention_identification_of_building_wing_other_as_per_approved_plan": "BALAJI HOMES",
+            "proposed_date_of_completion": "22/10/2020",
+            "number_of_basement_s": "0",
+            "number_of_plinth": "1",
+            "number_of_podium_s": "0",
+            "number_of_sanctioned_floors": "4",
+            "number_of_stilts": "0",
+            "total_no_of_open_parking_as_per_sanctioned_plan_4_wheeler_2_wheeler": "0",
+            "number_of_closed_parking": "9",
+            "extras": [
+                [
+                    {
+                        "sr_no": "1",
+                        "apartment_type": "SHOP",
+                        "carpet_area_in_sqmts": "32.29",
+                        "number_of_apartment": "1",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "2",
+                        "apartment_type": "SHOP",
+                        "carpet_area_in_sqmts": "34.09",
+                        "number_of_apartment": "1",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "3",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "17.5",
+                        "number_of_apartment": "1",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "17.01",
+                        "number_of_apartment": "1",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "5",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "37.15",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "6",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "37.21",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "7",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "34.01",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "8",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "38.11",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "9",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "39.6",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    },
+                    {
+                        "sr_no": "10",
+                        "apartment_type": "FLAT",
+                        "carpet_area_in_sqmts": "36.13",
+                        "number_of_apartment": "3",
+                        "number_of_booked_apartment": "0"
+                    }
+                ],
+                [
+                    {
+                        "sr_no": "1",
+                        "tasks_activity": "Excavation",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "2",
+                        "tasks_activity": "X number of Basement(s) and Plinth",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "3",
+                        "tasks_activity": "X number of Podiums",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "4",
+                        "tasks_activity": "Stilt Floor",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "5",
+                        "tasks_activity": "X number of Slabs of Super\r\n                                                            Structure",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "6",
+                        "tasks_activity": "Internal walls, Internal Plaster,\r\n                                                            Floorings within Flats/Premises, Doors and Windows to each of the Flat/Premises",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "7",
+                        "tasks_activity": "Sanitary Fittings within the\r\n                                                            Flat/Premises,Electrical Fittings within the Flat/Premises",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "8",
+                        "tasks_activity": "Staircases, Lifts Wells and Lobbies at each Floor level connecting Staircases and Lifts, Overhead and Underground Water Tanks.",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "9",
+                        "tasks_activity": "The external plumbing and external plaster,\r\n                                                                elevation, completion of terraces with waterproofing of the Building/Wing",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "10",
+                        "tasks_activity": "Installation of lifts, water pumps, Fire\r\n                                                            Fighting Fittings and Equipment as per CFO NOC, Electrical fittings to Common\r\n                                                            Areas, electro, mechanical equipment, Compliance to conditions of environment\r\n                                                            /CRZ NOC,\r\n                                                            Finishing to entrance lobby/s, plinth protection, paving of areas appurtenant to\r\n                                                            Building/Wing, Compound Wall and all other requirements as may be required to\r\n                                                            Obtain Occupation /Completion Certificate",
+                        "percentage_of_work": "0"
+                    },
+                    {
+                        "sr_no": "11",
+                        "tasks_activity": "Overall Percentage of Completion of the\r\n                                                            work done  For the entire Building /Wing",
+                        "percentage_of_work": "0"
+                    }
+                ]
+            ]
+        }
+    ],
+    "project_professional_information": [
+        {
+            "professional_name": "Dharmesh Pamsi",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Architect"
+        },
+        {
+            "professional_name": "Akshay Patel",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Contractor"
+        },
+        {
+            "professional_name": "Rajesh tandel",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Engineer"
+        },
+        {
+            "professional_name": "Rajesh Katariya",
+            "maha_rera_certificate_no": "NA",
+            "professional_type": "Chartered Accountant"
+        }
+    ],
+        
+    
+    "ru__created_at": "2022-07-15 03:59:16.435710"
+}
